@@ -24,3 +24,18 @@ _No parts listed yet._
   D43                                                                                                                                                                                                                                                                                                                                                                                        
   D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42                                                           42    D          \ Diode_SMD:D_SOD-123                          5.50$
   A1                                                                                                                                                                                                                        1     RaspberryPi_Pico                                            3$      Module:RaspberryPi_Pico_Common_Unspecified   https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+
+
+
+
+[Split keyboard with numberpad.csv](https://github.com/user-attachments/files/33319319/Split.keyboard.with.numberpad.csv)
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"U1,U2","2","XIAO-nRF52840-SMD","","","","mtpr:modified-XIAO-nRF52840-SMD",""
+"TP3,TP4","2","GND","","","","TestPoint:TestPoint_Pad_D2.0mm",""
+"TP1,TP2","2","BAT","","","","TestPoint:TestPoint_Pad_D2.0mm",""
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16,SW17,SW18,SW19,SW20,SW21,SW22,SW23,SW24,SW25,SW26,SW27,SW28,SW29,SW30,SW31,SW32,SW33,SW34,SW35,SW36,SW37,SW38,SW39,SW40,SW41,SW42,SW43,SW44,SW45,SW46,SW47,SW48,SW49,SW50,SW51,SW52,SW53,SW54,SW55,SW56,SW57,SW58,SW59","59","SW_Push","","","","mtpr:SW_MX_HS_KS-2P02B01-01_1.75u",""
+"R3,R4","2","2M","","","","Resistor_SMD:R_0805_2012Metric",""
+"R1,R2","2","806k","","","","Resistor_SMD:R_0805_2012Metric",""
+"D43","1","LED","","","","",""
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42","42","D","","","","Diode_SMD:D_SOD-123",""
+"A1","1","RaspberryPi_Pico","","","","Module:RaspberryPi_Pico_Common_Unspecified","https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf"
