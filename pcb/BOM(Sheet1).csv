@@ -1,0 +1,9 @@
+Part,what it's for,quantity
+TestPoint:TestPoint_Pad_D2.0mm,help with testing for ground and battery,4
+GATERON KS-8 Switch Set  ,The switches I'm using for the keyboard,62
+"GATERON Upgrade Hot-swap PCB 2.0 Socket
+Pack",Make the switches seem more mechanical keyboard like,62
+diodes sod 123,keep the keyboards from burning out,42
+resistor 806K,resist the current current,4
+resistor 2m,resist the current current,4
+raspberry pi pico,provides enough places for each key on my numberpad,1
