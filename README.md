@@ -3,4 +3,3 @@
 <img width="1280" height="711" alt="model" src="https://github.com/user-attachments/assets/e10d28d3-3264-4be3-8c99-955ee225cd19" />
 This is just a split keyboard with 43 keys a number pad. Each side of the split keyboard is running off of it's own xiao for the micro controller. The number pad will also run off of the xiao. The number pad has 20 keys and runs off of a raspberry pi pico. 
 
-file:///C:/Users/naf-student/Downloads/SCOUTDOGS.html
