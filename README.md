@@ -5,3 +5,4 @@ This is just a split keyboard with 43 keys a number pad. Each side of the split 
 
 <img width="436" height="310" alt="Screenshot 2026-10-21 222539" src="https://github.com/user-attachments/assets/4694b645-b3a0-496d-a236-26ac48a9542c" />
 <img width="1047" height="439" alt="Screenshot 2026-10-18 235012" src="https://github.com/user-attachments/assets/e250b2eb-d1f9-4765-a9bf-d4a2199f0230" />
+The cad design for my pcb is a three part case that will connect using magets. The pcb will connect through screw holes and has holes for the switches to pop out for keycaps.
